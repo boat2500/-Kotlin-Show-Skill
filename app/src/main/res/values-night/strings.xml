@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="covidTitle1">ยืนยันตัวเลขผู้ติดเชื้อ</string>
+    <string name="covidTitle3">ในประเทศไทย</string>
+    <string name="covidTitle2">Covid-19</string>
+</resources>

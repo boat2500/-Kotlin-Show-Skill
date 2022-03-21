@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ShowSkillAndroid</string>
+    <string name="hint_password">Password</string>
+    <string name="lbl_forget">Forgot Password? Click here!</string>
+    <string name="btn_login">Login</string>
+    <string name="hint_employee_id">User Name</string>
+    <string name="user_login">User Login</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_email">E-mail Id</string>
+    <string name="registration">Registration</string>
+    <string name="lbl_register">Don\'t have an account? Register here!</string>
+    <string name="lbl_login">Already Registered? Click here!</string>
+    <string name="hint_re_password">Confirm Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="covidTitle1">ยืนยันตัวเลขผู้ติดเชื้อ</string>
+    <string name="covidTitle3">ในประเทศไทย</string>
+    <string name="covidTitle2">Covid-19</string>
+    <string name="new_covid_title">ยอดผู้ป่วย Covid 19 รายใหม่</string>
+</resources>
